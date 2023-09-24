@@ -1,0 +1,90 @@
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe.config
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.pdb
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Form1.resources
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Properties.Resources.resources
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csproj.GenerateResource.Cache
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.exe
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.pdb
+F:\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe.config
+F:\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.exe
+F:\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.pdb
+D:\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe.config
+D:\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.exe
+D:\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.pdb
+F:\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csprojResolveAssemblyReference.cache
+F:\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Form1.resources
+F:\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Properties.Resources.resources
+F:\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csproj.GenerateResource.Cache
+F:\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe
+F:\Програмирование\сиШарп\WinForms\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.pdb
+D:\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe.config
+D:\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.exe
+D:\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.pdb
+D:\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe
+D:\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.pdb
+D:\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csprojResolveAssemblyReference.cache
+D:\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Form1.resources
+D:\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Properties.Resources.resources
+D:\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csproj.GenerateResource.Cache
+F:\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe.config
+F:\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.exe
+F:\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.pdb
+F:\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe
+F:\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.pdb
+F:\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csprojResolveAssemblyReference.cache
+F:\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Form1.resources
+F:\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Properties.Resources.resources
+F:\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csproj.GenerateResource.Cache
+C:\Users\Мария\Desktop\Програмирование\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe.config
+C:\Users\Мария\Desktop\Програмирование\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.exe
+C:\Users\Мария\Desktop\Програмирование\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.pdb
+C:\Users\Мария\Desktop\Програмирование\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Мария\Desktop\Програмирование\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Form1.resources
+C:\Users\Мария\Desktop\Програмирование\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Properties.Resources.resources
+C:\Users\Мария\Desktop\Програмирование\FuzzySetCalculator\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csproj.GenerateResource.Cache
+C:\Users\Мария\Desktop\Програмирование\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe
+C:\Users\Мария\Desktop\Програмирование\FuzzySetCalculator\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.pdb
+G:\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe.config
+G:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.exe
+G:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.pdb
+F:\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe.config
+F:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.exe
+F:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.pdb
+F:\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe
+F:\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.pdb
+F:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csprojResolveAssemblyReference.cache
+F:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Form1.resources
+F:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Properties.Resources.resources
+F:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csproj.GenerateResource.Cache
+D:\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe.config
+D:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.exe
+D:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.pdb
+D:\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe
+D:\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.pdb
+D:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csprojResolveAssemblyReference.cache
+D:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Form1.resources
+D:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Properties.Resources.resources
+D:\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csproj.GenerateResource.Cache
+E:\2 КУРС 2 СЕМЕСТР\Нечеткие множества\2\Новая папка\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe.config
+E:\2 КУРС 2 СЕМЕСТР\Нечеткие множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.exe
+E:\2 КУРС 2 СЕМЕСТР\Нечеткие множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.pdb
+F:\Нечеткие множества\2\Новая папка\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe.config
+F:\Нечеткие множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.exe
+F:\Нечеткие множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.pdb
+F:\Нечеткие множества\2\Новая папка\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe
+F:\Нечеткие множества\2\Новая папка\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.pdb
+F:\Нечеткие множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csprojResolveAssemblyReference.cache
+F:\Нечеткие множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Form1.resources
+F:\Нечеткие множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Properties.Resources.resources
+F:\Нечеткие множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe.config
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.exe
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.pdb
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.exe
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\FuzzySetCalculator\bin\Debug\FuzzySetCalculator.pdb
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Form1.resources
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\FuzzySetCalculator\obj\Debug\FuzzySetCalculator.csproj.GenerateResource.Cache
